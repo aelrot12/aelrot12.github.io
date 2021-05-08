@@ -132,7 +132,7 @@ defaults:
   home:
     heading: "Devlog"
     subheading: "기초부터 시작하는 개발일지"
-#     banner: "Your image url"
+    banner: "assets/images/banners/IMG_7819 2.jpg"
 
 # Excerpt size setting
 # excerpt_size: 350
