@@ -26,7 +26,7 @@
 
 title: Aelrot's Devlog
 email: aelrot@kakao.com
-author: GitHub User
+author: aelrot12
 copyright: Copyright © 2021 #2021-2021
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -60,6 +60,10 @@ lang: "ko"  # default lang is en
 # Translate languges
 # langs refer to https://cloud.google.com/translate/docs/languages
 translate_langs:
+  - lang: ko
+    img: https://cdn.countryflags.com/thumbs/south-korea/flag-400.png
+    text: Korean
+    
   - lang: en
     img: https://cdn.countryflags.com/thumbs/united-states-of-america/flag-400.png
     text: English
@@ -76,9 +80,7 @@ translate_langs:
 #     img: https://cdn.countryflags.com/thumbs/japan/flag-400.png
 #     text: Japanese
 #
-#   - lang: ko
-#     img: https://cdn.countryflags.com/thumbs/south-korea/flag-400.png
-#     text: Korean
+
 #
 #   - lang: ru
 #     img: https://cdn.countryflags.com/thumbs/russia/flag-400.png
