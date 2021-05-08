@@ -106,7 +106,7 @@ lang: "ko"  # default lang is en
 # it will be always kept on every visit (i.e. no matter
 # the browser is closed or not)
 #
-night_mode: "off"
+night_mode: "on/off"
 
 # Code badge setting
 # You can enable or disable the code badge and so on
@@ -126,10 +126,10 @@ night_mode: "off"
 #   - about.md
 
 # Page default value
-# defaults:
-   home:
-     heading: "Devlog"
-     subheading: "기초부터 시작하는 개발일지"
+defaults:
+  home:
+    heading: "Devlog"
+    subheading: "기초부터 시작하는 개발일지"
 #     banner: "Your image url"
 
 # Excerpt size setting
