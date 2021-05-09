@@ -141,8 +141,8 @@ defaults:
 # paginate: 5
 
 # Disqus comments
-# disqus:
-#   shortname: "Your Disqus username"
+disqus:
+  shortname: "Aelrot"
 
 # Gitment comments
 # gitment:
