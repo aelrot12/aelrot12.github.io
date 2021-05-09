@@ -142,7 +142,7 @@ defaults:
 
 # Disqus comments
 disqus:
-  shortname: "aelrot12"
+  shortname: "aelrot12-github-io"
 
 # Gitment comments
 # gitment:
